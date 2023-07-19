@@ -1,0 +1,51 @@
+/* Styles for the h1 element */
+h1 {
+  font-size: 4em;
+  margin-bottom: 1em;
+  background-color: lightpink;
+  color:blue;
+  text-align: center;
+  border-radius: 4px;
+}
+
+/* Styles for the weather info div */
+#weather-info {
+  border: 4px dotted blue;
+  padding: 1em;
+  margin-top: 1em;
+}
+
+/* Styles for the location span */
+#location {
+  font-weight: bold;
+  font-size: 2.3em;
+}
+
+/* Styles for the temperature span */
+#temp {
+  font-size: 1.5em;
+}
+
+/* Styles for the precipitation span */
+#precip_in {
+  font-size: 1.2em;
+}
+
+#city {
+  border: 4px dotted blue;
+  padding: 1em;
+  margin-top: 1em;
+  font-size: 1.2em;
+}
+
+/* Styles for the other spans */
+span {
+  font-size: 3.2em;
+}
+
+#btn {
+  font-family: 'Courier New', Courier, monospace;
+  padding: 2em;
+  margin-bottom: 2em;
+}
+
